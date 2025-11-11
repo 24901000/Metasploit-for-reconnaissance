@@ -1,5 +1,5 @@
-## Name:Rathish R
-## Reg.no:212224240132 
+## Name: Barkavi B
+## Reg.no:212224110011
 # Metasploit-for-reconnaissance
 # Metasploit
 Metasploit for reconnaissance in pentesting
